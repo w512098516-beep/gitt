@@ -1,0 +1,3 @@
+# gitt
+
+Initialized Git repository.
